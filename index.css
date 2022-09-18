@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=Handlee&family=Marck+Script&family=Mulish:wght@600&family=Poppins:wght@400;600;700;900&family=Quicksand:wght@700&family=Rubik+Maze&display=swap');
+.a{
+    width: 100%;
+    height: 60px;
+    background-color: #5e068a;
+}
+#b{
+    margin-left: 315px;
+}
+#c{
+    margin-left: 120px;
+    width: 260px;
+    height: 70px;
+}
+#n{
+    width: 100%;
+    height: 475px;
+} 
+#y{
+    margin-left: 500px;
+}
+.slider-content{
+    position:relative;
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+}
+#j{
+    margin-top: -150px;
+    text-align: center;
+}
+#img{
+    margin-top: 80px;
+}
+#f1{
+    margin-top: 100px;
+    margin-left: 100px;
+    padding: 15px;
+    
+}
+.btn{
+    height: 63px;
+    width:  162px;
+    border:solid 2px #5e068a;
+    margin-top: 50px;
+    border-radius: 67PX;
+    background-color: #5e068a;
+    color: white;
+}
+.btn:hover{
+    background-color: white;
+    color: #5e068a;
+}
+
+    
+#u2{
+    background-color:#f7f7f5;
+    height: 600px;
+    width: 100%;
+    text-align: center;
+    
+    
+}
+#h1{
+    margin-top: 100px;
+    color: #5e068a;
+}
+span{
+    color: #9e6ab9;
+}
+#kl{
+    height: 368px;
+    width: 1150px;
+    background-color:white;
+    margin-left:85px ;
+    
+}
+#io{
+    height: 340px;
+    width: 477px;
+}
+#jk{
+    height: 1000px;
+    width: 100%;
+    background-color:#f7f7f5;
+}
+#jm{
+    margin-top: -465px;
+    margin-left:477px;
+    height: 469px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #414141;
+    
+}
+#rm{
+    margin-left:873px ;
+    margin-top:-468px ;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #414141;
+}
+
+#sg{
+    margin-left:74px ;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #414141;
+   
+}
+#v{
+    height: 63px;
+    width:  162px;
+    border:solid 2px  #5e068a;
+    margin-top: 50px;
+    border-radius: 67PX;
+    background-color:  #5e068a;
+    margin-left: 563px;
+    color: white;
+}
+#v:hover{
+    background-color: white;
+    color:#5e068a ;
+    
+}
+#qw{
+    height: 50px;
+    width: 125px;
+    border-radius: 0px;
+    margin-left: 72px;
+}
+#tg{
+    height: 50px;
+    width: 125px;
+    border-radius: 0px;
+    margin-left: 40px;
+    /* margin-bottom: 30px; */
+}
+#ik{
+    height: 50px;
+    width: 125px;
+    border-radius: 0px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+
